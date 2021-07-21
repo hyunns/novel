@@ -1,7 +1,7 @@
 (function() {
     var sc = 0; // scrollTop
     var header = $('#header');
-    var temp = '임시변수';
+    var temp = '임시변수입니다';
 
     // pc gnb
     $('.gnb .depth1').on('mouseenter', function() {
